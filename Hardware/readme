@@ -1,2 +1,14 @@
 - Board layout created with eagle 6.9.74 for OSx 
 - Part Library from Sparkfun & Adafruits
+
+
+- BOM -
+Potentiometres - 10K Linear
+N-Channel Mosfet - Low Gate Voltage ( micro controller friendly ) 10A - 60V Rated
+10K PullDown Resistor for Gate of Mosfet
+--
+Connectors
+Box
+12V Power supplier
+Cables
+
