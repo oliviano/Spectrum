@@ -39,7 +39,5 @@ Shot to all the ressources online, great mind sharing amazing code.
 
 ### Stuff used to make this:
 
- * [markdown-it](https://github.com/markdown-it/markdown-it) for Markdown parsing
- * [CodeMirror](http://codemirror.net/) for the awesome syntax-highlighted editor
- * [highlight.js](http://softwaremaniacs.org/soft/highlight/en/) for syntax highlighting in output code blocks
- * [js-deflate](https://github.com/dankogai/js-deflate) for gzipping of data to make it fit in URLs
+ * [markdown editor](https://jbt.github.io/markdown-editor/) for Markdown parsing
+ * [hallertau Statesman] (http://www.hallertau.co.nz/craft-beer/#number-2) for making a fine beverage
