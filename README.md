@@ -10,10 +10,14 @@ Basic Function:
  * Converts Hue, Sat, Brightness to RGB
  * Make Beautiful & playfull light for Sydney VIVId 2016
 
+Pre Requisites:
+  * Library Average [link](https://github.com/MajenkoLibraries/Average)
+  
 
 Deployed for Sydney Vivid 2016 artwork "Spectrum"
 
 To Do:
+ * Add Average library file or link
 
  * IP67/68 Connectors -> alibaba led 4pin connectors
  * Calibration TrimPot on board + code + new board
